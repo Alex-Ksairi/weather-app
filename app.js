@@ -31,8 +31,8 @@ updateTime();
 // importing API-KEY & BASE-URL
 
 let api = {
-    key:'b7a9b1cd527028579d01a5f91c1b4815',
-    baseurl: 'https://api.openweathermap.org/data/2.5/'
+    key:'3854b0fa69f7a859345e1603835850a7',
+    baseurl: 'https://api.openweathermap.org/data/3.0/'
 }
 
 // DOMs Search-box
